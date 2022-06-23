@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gustavo/Workspace/C#/CursoUdemy/CursoUdemy.csproj": {}
+    "/home/gustavo/Workspace/Projetos C#/CursoUdemy/CursoUdemy.csproj": {}
   },
   "projects": {
-    "/home/gustavo/Workspace/C#/CursoUdemy/CursoUdemy.csproj": {
+    "/home/gustavo/Workspace/Projetos C#/CursoUdemy/CursoUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gustavo/Workspace/C#/CursoUdemy/CursoUdemy.csproj",
+        "projectUniqueName": "/home/gustavo/Workspace/Projetos C#/CursoUdemy/CursoUdemy.csproj",
         "projectName": "CursoUdemy",
-        "projectPath": "/home/gustavo/Workspace/C#/CursoUdemy/CursoUdemy.csproj",
+        "projectPath": "/home/gustavo/Workspace/Projetos C#/CursoUdemy/CursoUdemy.csproj",
         "packagesPath": "/home/gustavo/.nuget/packages/",
-        "outputPath": "/home/gustavo/Workspace/C#/CursoUdemy/obj/",
+        "outputPath": "/home/gustavo/Workspace/Projetos C#/CursoUdemy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gustavo/.nuget/NuGet/NuGet.Config"

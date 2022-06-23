@@ -20,7 +20,8 @@ namespace CursoCSharp.Fundamentos
             double peso = 91.2;
             double altura = 1.82;
             double imc = peso / Math.Pow(altura, 2);
-            Console.WriteLine($"IMC é {imc}.");
+            Console.Write("O valor do IMC é: ");
+            Console.WriteLine(imc.ToString("F1"));
 
             // Número Par/Impar
             int par = 24;

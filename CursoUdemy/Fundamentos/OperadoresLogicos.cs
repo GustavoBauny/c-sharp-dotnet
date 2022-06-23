@@ -7,7 +7,7 @@ namespace CursoCSharp.Fundamentos
     class OperadoresLogicos
     {
         public static void Executar() {
-            var executouTrabalho1 = false;
+            var executouTrabalho1 = true;
             var executouTrabalho2 = false;
 
             bool comprouTv50 = executouTrabalho1 && executouTrabalho2;
