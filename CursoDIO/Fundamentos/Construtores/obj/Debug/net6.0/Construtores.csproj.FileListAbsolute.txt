@@ -1,0 +1,15 @@
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/bin/Debug/net6.0/Construtores
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/bin/Debug/net6.0/Construtores.deps.json
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/bin/Debug/net6.0/Construtores.runtimeconfig.json
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/bin/Debug/net6.0/Construtores.dll
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/bin/Debug/net6.0/Construtores.pdb
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.dll
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/refint/Construtores.dll
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.pdb
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/Construtores.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/Fundamentos/Construtores/obj/Debug/net6.0/ref/Construtores.dll

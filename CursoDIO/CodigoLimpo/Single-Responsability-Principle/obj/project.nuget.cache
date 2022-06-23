@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZOqhQ62GK0khukAfcC0DoMsY9nk3BMSldMRU8rdMpyh2CcOItcNasIH8GgECj0QVOkD+4SKyR/ISzxz2LgdUg==",
+  "success": true,
+  "projectFilePath": "/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/Single-Responsability-Principle.csproj",
+  "expectedPackageFiles": [
+    "/home/gustavo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

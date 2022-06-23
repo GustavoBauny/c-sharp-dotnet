@@ -1,0 +1,17 @@
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Open-Closed-Principle
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Open-Closed-Principle.deps.json
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Open-Closed-Principle.runtimeconfig.json
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Open-Closed-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Open-Closed-Principle.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.csproj.CopyComplete
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/refint/Open-Closed-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/Open-Closed-Principle.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Open-Closed-Principle/obj/Debug/net6.0/ref/Open-Closed-Principle.dll

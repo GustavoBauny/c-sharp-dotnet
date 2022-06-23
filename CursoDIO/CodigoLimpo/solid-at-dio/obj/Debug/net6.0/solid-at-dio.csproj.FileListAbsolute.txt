@@ -1,0 +1,15 @@
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/bin/Debug/net6.0/solid-at-dio
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/bin/Debug/net6.0/solid-at-dio.deps.json
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/bin/Debug/net6.0/solid-at-dio.runtimeconfig.json
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/bin/Debug/net6.0/solid-at-dio.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/bin/Debug/net6.0/solid-at-dio.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/refint/solid-at-dio.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/solid-at-dio.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/solid-at-dio/obj/Debug/net6.0/ref/solid-at-dio.dll

@@ -1,0 +1,15 @@
+/home/gustavo/Workspace/C#/DIO/bin/Debug/net6.0/DIO
+/home/gustavo/Workspace/C#/DIO/bin/Debug/net6.0/DIO.deps.json
+/home/gustavo/Workspace/C#/DIO/bin/Debug/net6.0/DIO.runtimeconfig.json
+/home/gustavo/Workspace/C#/DIO/bin/Debug/net6.0/DIO.dll
+/home/gustavo/Workspace/C#/DIO/bin/Debug/net6.0/DIO.pdb
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.dll
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/refint/DIO.dll
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.pdb
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/DIO.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/DIO/obj/Debug/net6.0/ref/DIO.dll

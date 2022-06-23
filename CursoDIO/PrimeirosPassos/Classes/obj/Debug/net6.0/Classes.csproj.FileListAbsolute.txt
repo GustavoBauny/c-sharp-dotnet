@@ -1,0 +1,15 @@
+/home/gustavo/Workspace/C#/Classes/bin/Debug/net6.0/Classes
+/home/gustavo/Workspace/C#/Classes/bin/Debug/net6.0/Classes.deps.json
+/home/gustavo/Workspace/C#/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/home/gustavo/Workspace/C#/Classes/bin/Debug/net6.0/Classes.dll
+/home/gustavo/Workspace/C#/Classes/bin/Debug/net6.0/Classes.pdb
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.dll
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/refint/Classes.dll
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.pdb
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/Classes/obj/Debug/net6.0/ref/Classes.dll

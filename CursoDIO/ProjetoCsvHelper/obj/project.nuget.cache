@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwZNFbcy+DBwdICBcD8D8NF8yyuCo+sc9HxdkIIyUCABhntstXSMoPHQmFneDPmxwlx0RCxNfwTOU0j0xcdccQ==",
+  "success": true,
+  "projectFilePath": "/home/gustavo/Workspace/C#/ProjetoCsvHelper/ProjetoCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "/home/gustavo/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

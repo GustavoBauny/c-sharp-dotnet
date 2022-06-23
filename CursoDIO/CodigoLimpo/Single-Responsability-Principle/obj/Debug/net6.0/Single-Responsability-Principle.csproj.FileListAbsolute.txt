@@ -1,0 +1,17 @@
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Single-Responsability-Principle
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Single-Responsability-Principle.deps.json
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Single-Responsability-Principle.runtimeconfig.json
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Single-Responsability-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Single-Responsability-Principle.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.csproj.CopyComplete
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/refint/Single-Responsability-Principle.dll
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.pdb
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/Single-Responsability-Principle.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/CodigoLimpo/Single-Responsability-Principle/obj/Debug/net6.0/ref/Single-Responsability-Principle.dll

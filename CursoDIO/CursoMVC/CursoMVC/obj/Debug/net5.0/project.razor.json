@@ -1,0 +1,105 @@
+{
+  "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/CursoMVC.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "CursoMVC",
+  "Documents": [
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Produtos/Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Produtos/Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Categorias/Edit.cshtml",
+      "TargetPath": "Views\\Categorias\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Categorias/Create.cshtml",
+      "TargetPath": "Views\\Categorias\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Produtos/Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Categorias/Delete.cshtml",
+      "TargetPath": "Views\\Categorias\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Produtos/Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Categorias/Details.cshtml",
+      "TargetPath": "Views\\Categorias\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Produtos/Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Categorias/Index.cshtml",
+      "TargetPath": "Views\\Categorias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gustavo/Workspace/C#/ASPdotNET/CursoMVC/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
