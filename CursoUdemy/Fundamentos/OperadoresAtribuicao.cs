@@ -24,7 +24,6 @@ namespace CursoCSharp.Fundamentos
 
             Console.WriteLine($"{a} {b}");
 
-            // Não se preocupe com o código
             dynamic c = new System.Dynamic.ExpandoObject();
             c.nome = "João";
 
