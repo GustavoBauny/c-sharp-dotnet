@@ -25,11 +25,11 @@ namespace CursoCSharp.EstruturasDeControle
 
                 if (numeroSecreto == palpite) {
                     numeroEncontrado = true;
-                    var corAnterior = Console.BackgroundColor;
-                    Console.BackgroundColor = ConsoleColor.Green;
+                    var corAnterior = Console.ForegroundColor;
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Numero encontrado em {0} tentativas",
                         tentativas);
-                    Console.BackgroundColor = corAnterior;
+                    Console.ForegroundColor = corAnterior;
                 } else if (palpite > numeroSecreto) {
                     Console.WriteLine("Menor... Tente novamente!");
                     Console.WriteLine("Tentativas restantes: {0}",

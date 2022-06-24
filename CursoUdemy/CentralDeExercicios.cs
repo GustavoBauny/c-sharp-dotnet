@@ -27,8 +27,7 @@ namespace CursoCSharp {
             string nomeDoExercicio = Exercicios.ElementAt(num).Key;
 
             Console.Write("\nExecutando exercício ");
-            Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.ForegroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(nomeDoExercicio);
             Console.ResetColor();
 
@@ -39,8 +38,7 @@ namespace CursoCSharp {
             try {
                 executar();
             } catch(Exception e) {
-                Console.BackgroundColor = ConsoleColor.Red;
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Ocorreu um erro: {0}", e.Message);
                 Console.ResetColor();
 
