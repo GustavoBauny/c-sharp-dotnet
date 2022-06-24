@@ -11,7 +11,7 @@ namespace CursoCSharp.EstruturasDeControle
             double somatorio = 0;
             string entrada;
             
-            Console.Write("Informe o tamano da turma: ");
+            Console.Write("Informe o tamanho da turma: ");
             entrada = Console.ReadLine()!;
             int.TryParse(entrada, out int tamanhoTurma);
 
