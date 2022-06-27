@@ -24,7 +24,7 @@ namespace CursoCSharp.ClassesEMetodos
             Console.WriteLine("Ponto 1 X:{0}", ponto1.X);
             Console.WriteLine("Copia Ponto 1 X:{0}", copiaPonto1.X);
 
-            CPonto ponto2 = new CPonto { X = 2, Y = 4 };
+            CPonto ponto2 = new CPonto { X = 2, Y = 3 };
             CPonto copiaPonto2 = ponto2; // Atribuição por REFERÊNCIA!!!
             ponto2.X = 4;
 

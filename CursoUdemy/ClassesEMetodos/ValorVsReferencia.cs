@@ -4,14 +4,16 @@ using System.Text;
 
 namespace CursoCSharp.ClassesEMetodos
 {
-    public class Dependente {
+    public class Dependente
+    {
         public string? Nome;
         public int Idade;
     }
 
     class ValorVsReferencia
     {
-        public static void Executar() {
+        public static void Executar()
+        {
             int numero = 3;
             int copiaNumero = numero;
             Console.WriteLine($"{numero} {copiaNumero}");
@@ -19,10 +21,7 @@ namespace CursoCSharp.ClassesEMetodos
             numero++;
             Console.WriteLine($"{numero} {copiaNumero}");
 
-            Dependente dep = new Dependente {
-                Nome = "Beto",
-                Idade = 20
-            };
+            Dependente dep = new Dependente { Nome = "Beto", Idade = 20 };
 
             Dependente copiaDep = dep;
 
