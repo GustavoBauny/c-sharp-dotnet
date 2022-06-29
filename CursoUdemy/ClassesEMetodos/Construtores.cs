@@ -6,8 +6,8 @@ namespace CursoCSharp.ClassesEMetodos
 {
     class Carro
     {
-        public string Modelo;
-        public string Fabricante;
+        public string? Modelo;
+        public string? Fabricante;
         public int Ano;
 
         public Carro(string modelo, string fabricante, int ano)

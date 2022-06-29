@@ -6,8 +6,8 @@ namespace CursoCSharp.ClassesEMetodos
 {
     public class Moto
     {
-        private string Marca;
-        private string Modelo;
+        private string? Marca;
+        private string? Modelo;
         private uint Cilindrada;
 
         public Moto(string marca, string modelo, uint cilindrada)
@@ -21,7 +21,7 @@ namespace CursoCSharp.ClassesEMetodos
 
         public string GetMarca()
         {
-            return Marca;
+            return Marca!;
         }
 
         public void SetMarca(string marca)
@@ -31,7 +31,7 @@ namespace CursoCSharp.ClassesEMetodos
 
         public string GetModelo()
         {
-            return Modelo;
+            return Modelo!;
         }
 
         public void SetModelo(string modelo)

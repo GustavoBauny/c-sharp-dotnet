@@ -8,7 +8,7 @@ namespace CursoCSharp.ClassesEMetodos
     {
         double desconto = 0.1;
 
-        string nome;
+        string? nome;
         public string Nome
         {
             get { return "Opcional: " + nome; }
