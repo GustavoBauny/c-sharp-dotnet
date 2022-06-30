@@ -8,6 +8,7 @@ using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
 
 namespace CursoCSharp
 {
@@ -61,7 +62,7 @@ namespace CursoCSharp
                     { "Struct - Classes e Métodos", ExemploStruct.Executar },
                     { "Struct Vs Classe - Classes e Métodos", StructVsClasse.Executar },
                     { "Valor Vs Referência - Classes e Métodos", ValorVsReferencia.Executar },
-                    {"Parâmetros Por Referência - Classes e Métodos", ParametrosPorReferencia.Executar},
+                    { "Parâmetros Por Referência - Classes e Métodos", ParametrosPorReferencia.Executar},
                     { "Parâmetro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar },
                     // Coleções
                     { "Array - Coleções", Colecoes.Array.Executar },
@@ -81,15 +82,25 @@ namespace CursoCSharp
                     { "Interface - OO", Interface.Executar },
                     { "Sealed - OO", Sealed.Executar },
                     // Métodos & Funções
-                    { "Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
-                    { "Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar},
-                    { "Usando Delegates - Métodos & Funções", UsandoDelegates.Executar},
+                    { "Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar },
+                    { "Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar },
+                    { "Usando Delegates - Métodos & Funções", UsandoDelegates.Executar },
                     { "Delegates Como Função Anonima - Métodos & Funções", DelegateFunAnonima.Executar},
                     { "Delegates Como Parâmetros - Métodos & Funções", DelegatesComoParametros.Executar},
-                    { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar},
+                    { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar },
                     // Exceções
-                    { "Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
-                    { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},}
+                    { "Primeira Exceção - Exceções", PrimeiraExcecao.Executar },
+                    { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar },
+                    // Api
+                    { "Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar },
+                    { "Lendo Arquivos - Usando API", LendoArquivos.Executar },
+                    { "Exemplo FileInfo - Usando API", ExemploFileInfo.Executar },
+                    { "Diretórios - Usando API", Diretorios.Executar },
+                    { "Exemplo DirectoryInfo - Usando API", ExemploDirectoryInfo.Executar },
+                    { "Exemplo Path - Usando API", ExemploPath.Executar },
+                    { "Exemplo DateTime - Usando API", ExemploDateTime.Executar },
+                    { "Exemplo Timespan - Usando API", ExemploTimeSpan.Executar },
+                }
             );
 
             central.SelecionarEExecutar();
